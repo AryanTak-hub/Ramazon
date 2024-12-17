@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(171, 171, 171);
+}
+p{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(162, 50, 50);
+}
+.gun-2{   
+    
+    width: 650px;
+    height:auto;
+    
+}
+.container-1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 150px;
+}
